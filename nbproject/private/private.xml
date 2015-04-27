@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/core/dbfTable.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/data/DataRecord.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/fastdbfreader/FastDbfReader.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/headers/RecordHeader.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/headers/Types/Converter.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/events/dbfListener.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/data/FieldData.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/headers/FieldDataException.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/headers/Types/DBFTypes.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/headers/Types/TypeConverter.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/headers/DBFHeader.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/events/dbfProgressChangedEvent.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/dbf/headers/FieldHeader.java</file>
+            <file>file:/E:/Projects/FastDbfReader/src/fastdbfreader/Utils.java</file>
+        </group>
+    </open-files>
+</project-private>
